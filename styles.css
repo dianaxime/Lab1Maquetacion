@@ -52,3 +52,54 @@ div{
 	font-size: 15px;
 	padding-right: 5px;
 }
+.pestana__opciones{
+	background: rgb(255, 255, 255);
+	border: 2px;
+	border-radius: 5px;
+	bottom: 70px;
+	color: rgb(135, 143, 143);
+	font-size: 13px;
+	height: 450px;
+	left: 50px;
+	padding-top: 30px;
+	position: absolute;
+	width: 225px;
+}
+.pestana__opciones div{
+	margin-top: 18px;
+}
+.pestana__paquetes{
+	color: rgb(225, 230, 230);
+}
+.pestana__primero{
+	color: rgb(1, 156, 151);
+}
+.pestana__anadir{
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 30px;
+	width: 30px;
+	padding-left: 5px;
+}
+.pestana__agregar{
+	align-items: center;
+	display: flex;
+	font-size: 9px;
+}
+.pestana__agregar__paquete{
+	color: rgb(0, 160, 155);
+	padding-top: 15px;
+}
+.pestana__agregar div{
+	margin-top: 1px;
+}
+.pestana__Escribe{
+	text-align: center;
+	background: rgb(241, 246, 246);
+	border: 2px;
+	border-radius: 5px;
+	color: rgb(192, 192, 192);
+	height: 20px;
+	padding-top: 9px;
+}
