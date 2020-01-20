@@ -44,12 +44,16 @@ div{
 	padding-left: 2px;
 }
 .encabezado__downarrow{
+	background-color: rgb(255, 255, 255);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
+	border-radius: 0px;
+	border-style: none;
 	height: 15px;
-	width: 15px;
+	margin-left: 10px;
 	padding-left: 5px;
+	width: 15px;
 }
 .encabezado__moreactions{
 	border: 1px;
@@ -83,12 +87,16 @@ div{
 	color: rgb(1, 156, 151);
 }
 .pestana__anadir{
+	background-color: rgb(255,255,255);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
+	border-radius: 0px;
+	border-style: none;
 	height: 30px;
-	width: 30px;
+	margin-left: 10px;
 	padding-left: 5px;
+	width: 30px;
 }
 .pestana__agregar{
 	align-items: center;
@@ -135,20 +143,30 @@ button{
 	width: 175px;
 }
 .barra__editar{
+	background-color: rgb(0, 160, 155);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
+	border-radius: 0px;
+	border-style: none;
 	height: 20px;
-	width: 20px;
+	margin-right: 2px;
+	margin-left: 2px;
 	padding-left: 5px;
+	width: 20px;
 }
 .barra__eliminar{
+	background-color: rgb(0, 160, 155);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
+	border-radius: 0px;
+	border-style: none;
 	height: 20px;
-	width: 20px;
+	margin-right: 2px;
+	margin-left: 2px;
 	padding-left: 5px;
+	width: 20px;
 }
 .barra__agregar__libro{
 	background-color: rgb(0, 188, 93);
@@ -177,17 +195,23 @@ button{
 	width: 850px;
 }
 .barra__B__borrar{
+	background-color: rgb(0, 160, 155);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
+	border-radius: 0px;
+	border-style: none;
 	height: 20px;
 	width: 20px;
 	padding-left: 5px;
 }
 .barra__B__erase{
+	background-color: rgb(0, 160, 155);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
+	border-radius: 0px;
+	border-style: none;
 	height: 20px;
 	width: 20px;
 	padding-left: 5px;
